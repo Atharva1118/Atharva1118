@@ -1,179 +1,273 @@
-# 👋 Hi, I'm Atharva Ghorpade
+ <!-- PROFILE HEADER -->
 
-### 💻 Computer Science Engineering Student | Java Full Stack Developer in Progress | Coding Club Mentor
+<div align="center">
 
-I’m a third-year B.Tech Computer Science and Engineering student at **D. Y. Patil College of Engineering and Technology, Kolhapur**.
+# 👋 Hey, I'm Atharva Ghorpade
 
-I enjoy building practical applications, solving Data Structures and Algorithms problems, and exploring technologies that turn ideas into real-world solutions.
+### `B.Tech CSE` · `Java Full Stack Developer in Progress` · `Coding Club Mentor`
 
-- 🔭 **Currently working on:** Java development and practical software projects
-- 🌱 **Currently learning:** Spring Boot, React, and modern full-stack development
-- 💡 **Interests:** Software Development, Web Technologies, DSA, and AI
-- 👨‍🏫 **Community:** Coding Club Mentor
-- 🎯 **Goal:** Become a skilled software developer through consistent learning and building
+**Turning ideas into code | Building skills for a better tomorrow**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Atharva1118-181717?style=for-the-badge&logo=github)](https://github.com/Atharva1118)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharva-ghorpade-45842732b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/atharva_ghorpade_2005/)
+
+📍 Kolhapur, Maharashtra, India
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `01` — About Me
+
+```java
+public class Atharva {
+
+    String name = "Atharva Ghorpade";
+    String degree = "B.Tech Computer Science & Engineering";
+    String role = "Coding Club Mentor";
+
+    String[] interests = {
+        "Java Full Stack Development",
+        "Data Structures & Algorithms",
+        "Software Engineering",
+        "Web Development"
+    };
+
+    String currentFocus =
+        "Building practical projects and mastering Java";
+
+    String motto = "Learn. Build. Improve. Repeat.";
+}
+```
+
+I'm a third-year Computer Science and Engineering student at **D. Y. Patil College of Engineering and Technology, Kolhapur**. I enjoy developing practical applications, solving programming challenges, and strengthening my software development skills through hands-on projects.
+
+- 🔭 **Building:** Java applications and web development projects
+- 🌱 **Learning:** Spring Boot, React, and advanced DSA
+- 💡 **Interested in:** Software development, web technologies, and AI/ML
+- 👨‍🏫 **Community:** Coding Club Mentor
+- 🎯 **Goal:** Become a skilled software engineer and build meaningful products
+
+---
+
+## `02` — Technology Stack
+
+<div align="center">
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Backend Development
-![JSP](https://img.shields.io/badge/JSP-323330?style=for-the-badge)
-![Servlets](https://img.shields.io/badge/Servlets-5382A1?style=for-the-badge)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![JSP](https://img.shields.io/badge/JSP-323330?style=flat-square)
+![Servlets](https://img.shields.io/badge/Servlets-5382A1?style=flat-square)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `03` — Featured Projects
 
-### 📚 Programming Language Roadmap Learning Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A beginner-friendly platform designed to help learners explore programming languages through structured learning roadmaps.
+### 📚 Programming Language Roadmap
 
-**Technologies:** HTML, CSS, JavaScript, MySQL, Apache
+A beginner-friendly web platform that organizes programming learning into structured roadmaps.
 
-- 📖 Structured learning paths for programming languages
-- 🎯 Beginner-focused learning experience
-- ⚡ Interactive frontend functionality
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `MySQL` `Apache`
+
+**Key Features**
+- Structured programming roadmaps
+- Beginner-friendly learning flow
+- Interactive JavaScript features
+- Data management
+
+[View Project on GitHub →](https://github.com/Atharva1118)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎓 Student Management System
 
-A Java web application for managing student information using JSP, Servlets, JDBC, and MySQL.
+A Java web application for managing student information with database integration.
 
-**Technologies:** Java, JSP, Servlets, JDBC, MySQL, Apache Tomcat
+**Tech Stack**
 
-- 👤 Student registration and authentication
-- 📋 Student record management
-- ➕ Add and delete student records
-- 🚪 Logout functionality
+`Java` `JSP` `Servlets` `JDBC` `MySQL`
+
+**Key Features**
+- Student registration and login
+- View student records
+- Add and delete records
+- Logout functionality
+
+[View Project on GitHub →](https://github.com/Atharva1118/Java-Backend-Journey)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 📧 Java Mail Web Application
 
-A Java web application exploring email functionality using JSP, Servlets, and Jakarta Mail.
+A Java web application exploring email functionality through JSP, Servlets, and Jakarta Mail.
 
-**Technologies:** Java, JSP, Servlets, Jakarta Mail
+**Tech Stack:** `Java` `JSP` `Servlets` `Jakarta Mail`
 
----
+**Focus:** Email integration, server-side Java development, and web application functionality.
 
-## 🧠 Data Structures & Algorithms
+[Explore my repositories →](https://github.com/Atharva1118?tab=repositories)
 
-I practice DSA to improve my logical thinking, problem-solving ability, and coding efficiency.
-
-**Topics I'm practicing:**
-- Arrays and Strings
-- Hashing and Two Pointers
-- Stacks and Queues
-- Recursion and Backtracking
-- Trees and Graphs
-- Sorting and Searching
-- Dynamic Programming
-
-### Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/atharva_ghorpade_2005/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atharva1118)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## `04` — DSA & Problem Solving
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva1118&show_icons=true&theme=tokyonight&hide_border=true" alt="Atharva's GitHub statistics" />
-</p>
+I practice Data Structures and Algorithms to improve my logical thinking, coding efficiency, and problem-solving ability.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva1118&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
+| Fundamentals | Advanced Topics |
+|:--|:--|
+| Arrays & Strings | Trees |
+| Hashing | Graph Algorithms |
+| Two Pointers | Dynamic Programming |
+| Stacks & Queues | Backtracking |
+| Sorting & Searching | Recursion |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atharva1118&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<div align="center">
 
----
+[![LeetCode](https://img.shields.io/badge/Solve_Problems_on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/atharva_ghorpade_2005/)
 
-## 🎓 Education
-
-**D. Y. Patil College of Engineering and Technology, Kolhapur**  
-B.Tech — Computer Science & Engineering | Third Year  
-CGPA: **8.73** (Semesters 1–4)
-
-**Sadhana Junior College of Science, Gadhinglaj**  
-HSC — Science | **79.50%**
-
-**Sadhana High School, Gadhinglaj**  
-SSC | **89.20%**
+</div>
 
 ---
 
-## 👨‍🏫 Leadership & Community
+## `05` — GitHub Analytics
 
-### Coding Club Mentor
+<div align="center">
 
-I contribute to the Coding Club by encouraging students to develop programming skills, strengthen logical thinking, debug code, and learn through practical activities.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharva1118&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva1118&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Atharva1118&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
 
 ---
 
-## 📜 Certifications & Workshops
+## `06` — Education
+
+**🎓 D. Y. Patil College of Engineering and Technology, Kolhapur**
+
+B.Tech — Computer Science & Engineering · Third Year
+
+**CGPA: 8.73 / 10** — Semesters 1–4
+
+**📘 Sadhana Junior College of Science, Gadhinglaj**
+
+HSC — Science · **79.50%**
+
+**📗 Sadhana High School, Gadhinglaj**
+
+SSC · **89.20%**
+
+---
+
+## `07` — Leadership & Community
+
+### 👨‍🏫 Coding Club Mentor
+
+As a Coding Club Mentor, I contribute to a learning environment where students can develop programming skills, improve logical thinking, debug code, and gain practical coding experience.
+
+---
+
+## `08` — Certifications & Workshops
 
 - 🤖 GenAI Virtual Internship
 - 🌐 Zscaler Networking Virtual Internship
 - 🏆 CodeMantra Coding Competition — TKIET College, Warananagar
-- 🤖 AI Tools Workshop — Be10x
+- 🧠 AI Tools Workshop — Be10x
 - 🔄 MetaMorphosis 2K26 — Walchand College, Sangli
 - 🐳 Docker & Go Language Workshop
 
 ---
 
-## 🌱 Current Learning Roadmap
+## `09` — Current Learning Roadmap
 
 ```text
-Java Full Stack Development
+JAVA FULL STACK DEVELOPMENT
 │
-├── Core Java & OOP
-├── Collections & DSA
-├── HTML, CSS & JavaScript
-├── React
-├── JDBC, JSP & Servlets
-├── Spring Boot
-└── SQL & MySQL
+├── Programming
+│   ├── Core Java & OOP
+│   ├── Collections Framework
+│   └── Data Structures & Algorithms
+│
+├── Frontend
+│   ├── HTML & CSS
+│   ├── JavaScript
+│   └── React
+│
+├── Backend
+│   ├── JDBC, JSP & Servlets
+│   └── Spring Boot
+│
+└── Database
+    └── SQL & MySQL
 ```
 
 ---
 
-## 🤝 Let's Connect
+## `10` — Let's Connect
 
-I'm always interested in learning, collaborating on projects, and connecting with fellow developers.
+<div align="center">
 
-- 💻 GitHub: [Atharva1118](https://github.com/Atharva1118)
-- 🧩 LeetCode: [atharva_ghorpade_2005](https://leetcode.com/u/atharva_ghorpade_2005/)
-- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/atharva-ghorpade-45842732b/)
+**Have an interesting project or collaboration idea? Let's connect!**
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Atharva1118-181717?style=for-the-badge&logo=github)](https://github.com/Atharva1118)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva_Ghorpade-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharva-ghorpade-45842732b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Atharva-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/atharva_ghorpade_2005/)
 
-<p align="center">
-  <i>"Consistency beats motivation. Keep learning, keep building, keep growing."</i>
-</p>
+<br/>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+> *"Consistency builds success."*
+>
+> **Keep Learning · Keep Building · Keep Growing**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Atharva1118&style=flat-square&color=2563eb&label=PROFILE+VIEWS)
+
+</div>
+
+<!-- Keep building. Your next project could be your best one. -->
