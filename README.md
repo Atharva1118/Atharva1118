@@ -21,14 +21,12 @@
   <a href="https://www.linkedin.com/in/atharva-ghorpade-45842732b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:atharvag1811@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
-
-<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
@@ -41,8 +39,6 @@
 - 🤝 Open to collaborating on Java, web development, and open-source projects.
 
 ---
-
-<!-- ===================== TECHNICAL SKILLS ===================== -->
 
 ## 🛠️ Technical Skills
 
@@ -103,8 +99,6 @@
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -129,32 +123,6 @@
 </p>
 
 ---
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/atharva1118/atharva1118/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/atharva1118/atharva1118/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/atharva1118/atharva1118/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
-
----
-
-<!-- ===================== DEVELOPER QUOTE ===================== -->
 
 ## 💡 Developer Quote
 
