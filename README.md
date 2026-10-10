@@ -1,6 +1,4 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">Atharva Ghorpade</h1>
+# 👋 Hi, I'm Atharva Ghorpade
 
 <h3 align="center">Java Developer | Backend Development | Aspiring Full Stack Engineer</h3>
 
@@ -9,15 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/atharva1118">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/atharva-ghorpade-45842732b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:atharvag1811@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://github.com/atharva1118"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/atharva-ghorpade-45842732b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:atharvag1811@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -33,7 +25,7 @@ I'm a third-year Computer Science and Engineering student interested in software
 - 🎓 Pursuing B.Tech in Computer Science and Engineering.
 - ☕ Focusing on Java, object-oriented programming, and backend development.
 - 🌱 Learning Spring Boot, SQL, Data Structures and Algorithms.
-- 🛠️ Building practical projects to strengthen my development skills.
+- 🛠️ Building practical applications to strengthen my development skills.
 - 🤝 Interested in open-source collaboration and learning from other developers.
 
 > **My mindset:** Consistency beats talent when talent doesn't work consistently.
@@ -75,11 +67,10 @@ I'm a third-year Computer Science and Engineering student interested in software
   <img src="https://img.shields.io/badge/JSP-BA4A00?style=for-the-badge&logo=java&logoColor=white" alt="JSP"/>
 </p>
 
-### 05 · Servers & Runtime
+### 05 · Servers
 
 <p>
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Apache Tomcat"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 
 ### 06 · Databases
@@ -97,35 +88,6 @@ I'm a third-year Computer Science and Engineering student interested in software
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 Bank Management System</h3>
-      <p>A desktop application project focused on a graphical banking interface.</p>
-      <p><strong>Tech:</strong> Java · AWT · Swing</p>
-      <a href="https://github.com/atharva1118?tab=repositories">View repositories →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 Student Management System</h3>
-      <p>A Java web application for working with student records and database operations.</p>
-      <p><strong>Tech:</strong> JSP · Servlets · JDBC · MySQL</p>
-      <a href="https://github.com/atharva1118/Java-Backend-Journey">View backend journey →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🗺️ Programming Language Roadmap Learning Platform</h3>
-      <p>A learning platform concept designed to guide learners through programming languages using structured learning roadmaps.</p>
-      <p><strong>Focus:</strong> Programming · Web Development · Learning Resources</p>
-      <a href="https://github.com/atharva1118?tab=repositories">Explore projects →</a>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -154,7 +116,7 @@ I'm a third-year Computer Science and Engineering student interested in software
 
 ---
 
-## 💬 Developer Inspiration
+## 💭 Developer Inspiration
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote"/>
