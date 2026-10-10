@@ -1,28 +1,21 @@
 
-<!-- ===================== HEADER ===================== -->
+<h1 align="center">Atharva Ghorpade</h1>
 
-<h1 align="center">Hi 👋, I'm Atharva Ghorpade</h1>
-
-<h3 align="center">
-  B.Tech Computer Science Student | Coding Club Mentor | Aspiring Software Developer
-</h3>
+<h3 align="center">Computer Science Engineering Student | Coding Club Mentor</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Java+Developer+in+Progress;Full+Stack+Development+Enthusiast;DSA+%26+Problem+Solving;Building+My+Skills+One+Commit+at+a+Time"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Java+Developer+in+Progress;Full+Stack+Development+Enthusiast;DSA+%7C+Problem+Solving;Building+Projects+and+Learning+Every+Day" alt="Typing introduction"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/atharva1118">
-    <img src="https://img.shields.io/badge/GitHub-Atharva1118-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/atharva-ghorpade-45842732b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:atharvag1811@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://leetcode.com/u/atharva_ghorpade_2005/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -30,13 +23,15 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year **B.Tech Computer Science and Engineering** student.
-- 👨‍🏫 **Coding Club Mentor** at D. Y. Patil College of Engineering and Technology, Kolhapur.
-- ☕ Focused on **Java programming, backend development, and full-stack technologies**.
-- 🧠 Practicing Data Structures and Algorithms to improve problem-solving skills.
-- 🌱 Currently learning **Spring Boot** and strengthening my database fundamentals.
-- 🚀 Interested in building practical, scalable, and industry-oriented software applications.
-- 🤝 Open to collaborating on Java, web development, and open-source projects.
+I'm a third-year B.Tech Computer Science and Engineering student at **D. Y. Patil College of Engineering and Technology, Kolhapur**.
+
+- 🎓 Pursuing Computer Science and Engineering.
+- 👨‍🏫 Coding Club Mentor.
+- ☕ Focused on Java and backend development.
+- 🌱 Learning Spring Boot and full-stack development.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🤝 Interested in open-source contributions and collaborative development.
+- 🎯 Working toward becoming a skilled software developer.
 
 ---
 
@@ -70,12 +65,12 @@
 ### 🔧 Java Backend Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=databricks&logoColor=white" alt="JDBC"/>
-  <img src="https://img.shields.io/badge/Servlets-4B5563?style=for-the-badge&logo=java&logoColor=white" alt="Servlets"/>
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="JDBC"/>
+  <img src="https://img.shields.io/badge/Servlets-6B7280?style=for-the-badge&logo=java&logoColor=white" alt="Servlets"/>
   <img src="https://img.shields.io/badge/JSP-4479A1?style=for-the-badge&logo=java&logoColor=white" alt="JSP"/>
 </p>
 
-### 🖥️ Servers & Runtime
+### 🖥️ Servers
 
 <p>
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Apache Tomcat"/>
@@ -102,24 +97,26 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=atharva1118&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
-    alt="GitHub statistics"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva1118&layout=compact&theme=tokyonight&hide_border=true&hide=C%2B%2B&cache_seconds=86400"
-    alt="Most used languages"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=atharva1118&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva1118&layout=compact&theme=tokyonight&hide_border=true&hide=C%2B%2B" alt="Top programming languages"/>
 </p>
 
 <p align="center">
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=atharva1118&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
+  <img height="180" src="https://streak-stats.demolab.com?user=atharva1118&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.xqsit94.in/atharva1118" alt="GitHub contribution calendar" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/atharva1118">
+    <img src="https://img.shields.io/badge/View-All%20Contributions-2F81F7?style=for-the-badge&logo=github" alt="View GitHub contributions"/>
+  </a>
 </p>
 
 ---
@@ -127,12 +124,13 @@
 ## 💡 Developer Quote
 
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-    alt="Random developer quote"
-  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote"/>
 </p>
 
 <p align="center">
-  <i>Keep learning. Keep building. Keep improving.</i>
+  <i>Consistency beats intensity. Keep learning, keep building, and keep growing.</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
 </p>
