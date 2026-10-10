@@ -118,15 +118,16 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 My GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atharva1118/atharva1118/output/github-contribution-grid-snake-dark.svg" alt="Snake eating GitHub contribution squares" width="100%"/>
+  <img
+    src="https://raw.githubusercontent.com/atharva1118/atharva1118/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
 </p>
 
-<p align="center">
-  <i>Every contribution is a step forward. Keep coding! 💚</i>
-</p>
 
 ---
 
