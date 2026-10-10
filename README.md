@@ -92,34 +92,29 @@ I'm a third-year B.Tech Computer Science and Engineering student at **D. Y. Pati
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
----
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=atharva1118&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva1118&layout=compact&theme=tokyonight&hide_border=true&hide=C%2B%2B" alt="Top programming languages"/>
-</p>
+## 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=atharva1118&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
----
-
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.xqsit94.in/atharva1118" alt="GitHub contribution calendar" width="100%"/>
+  <img
+    src="https://ghchart.xqsit94.in/atharva1118"
+    alt="GitHub contribution calendar"
+    width="100%"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/atharva1118">
-    <img src="https://img.shields.io/badge/View-All%20Contributions-2F81F7?style=for-the-badge&logo=github" alt="View GitHub contributions"/>
+    <img
+      src="https://img.shields.io/badge/VIEW%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub profile"
+    />
   </a>
 </p>
 
 ---
+
 
 ## 💡 Developer Quote
 
