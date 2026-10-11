@@ -97,6 +97,7 @@ public class Atharva {
 
 ---
 
+
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 ## 📊 GitHub Analytics
@@ -114,6 +115,23 @@ public class Atharva {
 </div>
 
 ---
+
+<!-- ===================== CONTRIBUTION CALENDAR ===================== -->
+
+## 📅 My Contribution Activity
+
+<div align="center">
+
+[![Atharva's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva1118&theme=redical&hide_border=true&area=true)](https://github.com/Atharva1118)
+
+<br/>
+
+[![GitHub Contributions](https://ghchart.rshah.org/ff0055/Atharva1118)](https://github.com/Atharva1118)
+
+</div>
+
+---
+
 
 <!-- ===================== CONTRIBUTIONS ===================== -->
 
