@@ -116,22 +116,26 @@ public class Atharva {
 
 ---
 
-<!-- ===================== CONTRIBUTION CALENDAR ===================== -->
 
 ## 📅 My Contribution Activity
 
 <div align="center">
 
-[![Atharva's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva1118&theme=redical&hide_border=true&area=true)](https://github.com/Atharva1118)
+[![GitHub Profile](https://img.shields.io/badge/View_My_Daily_Contributions-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Atharva1118)
+
+**Check my daily contributions, activity history, and coding consistency.**
+
+<a href="https://github.com/Atharva1118">
+  <img src="https://ghchart.rshah.org/ff0055/Atharva1118" alt="Atharva's GitHub Contribution Calendar"/>
+</a>
 
 <br/>
 
-[![GitHub Contributions](https://ghchart.rshah.org/ff0055/Atharva1118)](https://github.com/Atharva1118)
+*For today's exact contribution count, open the interactive calendar on my GitHub profile.*
 
 </div>
 
 ---
-
 
 <!-- ===================== CONTRIBUTIONS ===================== -->
 
