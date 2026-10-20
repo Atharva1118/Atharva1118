@@ -102,7 +102,7 @@ I'm open to connecting with developers, learning from experienced engineers, and
 [![GitHub](https://img.shields.io/badge/GitHub-Atharva1118-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atharva1118)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atharva1118.github.io/Atharva-Portfolio/)
 
-**Email:** [atharva1118@gmail.com](mailto:atharva1118@gmail.com)
+**Email:** [atharva1811@gmail.com](mailto:atharva1811@gmail.com)
 
 </div>
 
