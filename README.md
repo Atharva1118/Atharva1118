@@ -5,7 +5,7 @@
 
 ### Computer Science & Engineering Student
 
-**Java Developer | Problem Solver | Coding Club Mentor**
+* *Java Developer | Problem Solver | Coding Club Mentor**
 
 Building software, solving problems, and helping others grow through code.
 
@@ -16,7 +16,7 @@ Building software, solving problems, and helping others grow through code.
 
 </div>
 
----
+- --
 
 ## ABOUT ME
 
@@ -30,7 +30,7 @@ I focus on strengthening my computer science fundamentals, developing practical 
 - **Leadership:** Coding Club Mentoring and Knowledge Sharing
 - **Career Goal:** Build reliable software solutions and grow as a software engineer.
 
----
+- --
 
 ## TECHNICAL SKILLS
 
@@ -71,7 +71,7 @@ I focus on strengthening my computer science fundamentals, developing practical 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
----
+- --
 
 ## CORE COMPETENCIES
 
@@ -81,7 +81,7 @@ I focus on strengthening my computer science fundamentals, developing practical 
 - **Mentorship:** Supporting peers and sharing programming knowledge.
 - **Continuous Learning:** Exploring backend frameworks and modern development practices.
 
----
+- --
 
 ## FEATURED PROJECTS
 
@@ -98,7 +98,7 @@ Explore my repositories to discover my projects, experiments, and ongoing develo
 
 </div>
 
----
+- --
 
 ## GITHUB ANALYTICS
 
@@ -118,7 +118,7 @@ Explore my repositories to discover my projects, experiments, and ongoing develo
 
 </div>
 
----
+- --
 
 ## CONNECT WITH ME
 
@@ -132,14 +132,14 @@ I'm open to connecting with developers, collaborating on projects, exchanging te
 [![LeetCode](https://img.shields.io/badge/LeetCode-Atharva-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/atharva_ghorpade_2005/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atharva1118.github.io/Atharva-Portfolio/)
 
-**Email:** [atharva1811@gmail.com](mailto:atharva1811@gmail.com)
+* *Email:** [atharva1811@gmail.com](mailto:atharva1811@gmail.com)
 
 </div>
 
----
+- --
 
 <div align="center">
 
-*Learn continuously. Build thoughtfully. Improve consistently.*
+* Learn continuously. Build thoughtfully. Improve consistently.*
 
 </div>
