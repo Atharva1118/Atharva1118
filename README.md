@@ -83,11 +83,12 @@ I focus on strengthening my computer science fundamentals, developing practical 
 ---
 
 
+
 ## FEATURED PROJECTS
 
 ### 1. Campus Autopilot – Notice Management System
 
-A modern, responsive campus notice management interface that simplifies college communication. Administrators can create, schedule, and distribute announcements to all students or specific academic groups through n8n automation workflows.
+A modern, responsive web interface designed to simplify college notice management. Administrators can create, schedule, and distribute announcements to all students or specific academic groups through n8n automation workflows.
 
 **Key Features:**
 - Create and preview college notices.
@@ -95,7 +96,8 @@ A modern, responsive campus notice management interface that simplifies college 
 - Distribute notices to all students or specific classrooms.
 - Select academic year, branch, and division.
 - Schedule announcements for future dates.
-- Integrate with n8n webhooks for automated distribution.
+- Integrate with n8n webhooks for automated notice distribution.
+- Display success and error feedback after submission.
 
 **Tech Stack:**
 
@@ -110,25 +112,31 @@ A modern, responsive campus notice management interface that simplifies college 
 <div align="center">
 
 <a href="https://github.com/Atharva1118/campus-autopilot-ui">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
+</a>
+<a href="https://atharva1118.github.io/campus-autopilot-ui/">
+  <img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
 </a>
 
 </div>
 
 ---
 
+**Explore More Projects**
+
 Explore my repositories to discover more projects, experiments, and ongoing development work.
 
 <div align="center">
 
 <a href="https://github.com/Atharva1118?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+  <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects"/>
 </a>
 <a href="https://atharva1118.github.io/Atharva-Portfolio/">
-  <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio"/>
 </a>
 
 </div>
+
 
 
 ---
