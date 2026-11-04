@@ -124,9 +124,11 @@ Explore my repositories to discover my projects, experiments, and ongoing develo
 <br/><br/>
 
 <!-- GitHub Contribution Streak -->
+
 <img width="85%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva1118&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva1118&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
   alt="Atharva's GitHub Contribution Streak"/>
+
 
 </div>
 
