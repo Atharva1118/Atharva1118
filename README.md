@@ -82,20 +82,54 @@ I focus on strengthening my computer science fundamentals, developing practical 
 
 ---
 
+
 ## FEATURED PROJECTS
 
-Explore my repositories to discover my projects, experiments, and ongoing development work.
+### 1. Campus Autopilot – Notice Management System
+
+A modern, responsive campus notice management interface that simplifies college communication. Administrators can create, schedule, and distribute announcements to all students or specific academic groups through n8n automation workflows.
+
+**Key Features:**
+- Create and preview college notices.
+- Live character counter and form validation.
+- Distribute notices to all students or specific classrooms.
+- Select academic year, branch, and division.
+- Schedule announcements for future dates.
+- Integrate with n8n webhooks for automated distribution.
+
+**Tech Stack:**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+</p>
+
+<div align="center">
+
+<a href="https://github.com/Atharva1118/campus-autopilot-ui">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
+
+</div>
+
+---
+
+Explore my repositories to discover more projects, experiments, and ongoing development work.
 
 <div align="center">
 
 <a href="https://github.com/Atharva1118?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+  <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
 </a>
 <a href="https://atharva1118.github.io/Atharva-Portfolio/">
   <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
+
 
 ---
 
