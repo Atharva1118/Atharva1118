@@ -100,7 +100,6 @@ Explore my repositories to discover my projects, experiments, and ongoing develo
 ---
 
 
-## GITHUB ANALYTICS
 
 
 ## GITHUB ANALYTICS
