@@ -166,9 +166,9 @@ Explore my repositories to discover more projects, experiments, and ongoing deve
 
 <!-- GitHub Contribution Streak -->
 
-<img width="85%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva1118&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
-  alt="Atharva's GitHub Contribution Streak"/>
+<p align="center">
+  <img src="profile/streak.svg" alt="GitHub Streak Stats" />
+</p>
 
 
 </div>
