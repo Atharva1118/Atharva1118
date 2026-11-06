@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 # ATHARVA GHORPADE
 
@@ -82,8 +83,6 @@ I focus on strengthening my computer science fundamentals, developing practical 
 
 ---
 
-
-
 ## FEATURED PROJECTS
 
 ### 1. Campus Autopilot – Notice Management System
@@ -122,7 +121,7 @@ A modern, responsive web interface designed to simplify college notice managemen
 
 ---
 
-**Explore More Projects**
+### Explore More Projects
 
 Explore my repositories to discover more projects, experiments, and ongoing development work.
 
@@ -137,17 +136,7 @@ Explore my repositories to discover more projects, experiments, and ongoing deve
 
 </div>
 
-
-
 ---
-
-
-
-
-## GITHUB ANALYTICS
-
-<div align="center">
-
 
 ## GITHUB ANALYTICS
 
@@ -156,25 +145,26 @@ Explore my repositories to discover more projects, experiments, and ongoing deve
 <!-- GitHub Statistics -->
 <a href="https://github.com/Atharva1118">
   <img height="180" width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=Atharva1118&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+    src="./profile/stats.svg"
     alt="Atharva's GitHub Statistics"/>
 </a>
 
 <!-- Most Used Languages -->
 <a href="https://github.com/Atharva1118">
   <img height="180" width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atharva1118&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"
+    src="./profile/top-langs.svg"
     alt="Atharva's Most Used Languages"/>
 </a>
 
 <br/><br/>
 
 <!-- GitHub Contribution Streak -->
-<img src="profile/streak.svg" alt="GitHub Contribution Streak" />
+<a href="https://github.com/Atharva1118">
+  <img src="./profile/streak.svg"
+    alt="Atharva's GitHub Contribution Streak"/>
+</a>
 
 </div>
-
-
 
 ---
 
