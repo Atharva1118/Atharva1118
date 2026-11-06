@@ -148,30 +148,32 @@ Explore my repositories to discover more projects, experiments, and ongoing deve
 
 <div align="center">
 
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
 <!-- GitHub Statistics -->
 <a href="https://github.com/Atharva1118">
   <img height="180" width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=Atharva1118&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=Atharva1118&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
     alt="Atharva's GitHub Statistics"/>
 </a>
 
 <!-- Most Used Languages -->
 <a href="https://github.com/Atharva1118">
   <img height="180" width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atharva1118&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=6"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atharva1118&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"
     alt="Atharva's Most Used Languages"/>
 </a>
 
 <br/><br/>
 
 <!-- GitHub Contribution Streak -->
-
-<p align="center">
-  <img src="profile/streak.svg" alt="GitHub Streak Stats" />
-</p>
-
+<img src="profile/streak.svg" alt="GitHub Contribution Streak" />
 
 </div>
+
 
 
 ---
