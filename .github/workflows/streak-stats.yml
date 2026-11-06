@@ -1,0 +1,38 @@
+
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate streak statistics
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=Atharva1118&theme=dark&disable_animations=true
+          path: profile/streak.svg
+
+      - name: Commit updated statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update GitHub streak stats"
+          git push
